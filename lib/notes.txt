@@ -1,0 +1,29 @@
+// Form:
+//     Properties: fields, actions
+
+// Field:
+//     Properties: name, label, widget, fieldValidators,
+
+// CharField:
+//     Widget: float, integer, password, mobile, email, slug, title, url
+// TextField widget: raw, rich
+// DateTimeField:
+//     Widgets: year, month, date, dateTime, exactDateTime
+// SelectField:
+//     Widget: bullet, dropdown
+// MultiSelectField:
+//     Widgets: checklist, dropdown
+// BooleanField:
+//     Widget: switch, checkbox, radio
+// RateField:
+//     Widget: slider, star
+// FileField:
+//     Widget: file, image
+// MultiFileField:
+//     Widget: file, image
+
+// ListField:
+//     Widget: table, list
+
+// GroupField:
+//     widget: default
